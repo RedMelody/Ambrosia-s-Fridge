@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+ .body{
+    font-family: sans-serif;
+    font-size: 35px;
+
+    background: linear-gradient(
+        to right,
+        #FBDC29,
+        #f9fbfc
+    ) fixed;
+
+}
+
+.html{
+    background-image: ("C:\Users\Owner\Pictures\ratatata.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
